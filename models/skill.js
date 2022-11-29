@@ -1,7 +1,7 @@
 const skills = [
     {id: 910, skill: 'Webserver', level: 'adequate'},
     {id: 145, skill: 'CSS', level: 'Hire someone else'},
-    {id: 204, skill: 'JS', level: 'Meh'}
+    {id: 204, skill: 'JS', level: 'Awesome!'}
 ]
 
 module.exports = {
